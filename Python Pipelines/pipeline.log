@@ -1,0 +1,5 @@
+ERROR:root:Error loading data into the database: (MySQLdb.OperationalError) (2005, "Unknown server host '54321@localhost' (11003)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:root:Data loaded into the database successfully.
