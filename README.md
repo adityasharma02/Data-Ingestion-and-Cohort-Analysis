@@ -9,8 +9,8 @@
 >> Performed a cohort analysis on the data using SQL to provide insights into user behavior, focusing on user retention.
 
 -> Specific Analysis:
-    -  Grouped users into monthly cohorts based on their sign-up date.
-    -  lculated the retention rate for each cohort over a 3-month period.
+- Grouped users into monthly cohorts based on their sign-up date.
+- Calculated the retention rate for each cohort over a 3-month period.
 
 Also generated A report summarizing findings and insights from the cohort analysis.
 
