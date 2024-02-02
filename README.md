@@ -3,7 +3,7 @@
 >> I constructed and Developed data pipeline using Python that ingests data from provided CSV files, processes it, and loads it into a structured database.
 - Data Source for pipelines: CSV files 
 - Code Does handle common data issues like missing values and duplicates.
-- Include basic error handling and logging.
+- Included basic error handling and logging.
 
 >> Cohort Analysis Using SQL
 -  Performed a cohort analysis on the data using SQL to provide insights into user behavior, focusing on user retention.
