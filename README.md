@@ -5,8 +5,8 @@
 - Code Does handle common data issues like missing values and duplicates.
 - Included basic error handling and logging.
 
->> Cohort Analysis Using SQL
--  Performed a cohort analysis on the data using SQL to provide insights into user behavior, focusing on user retention.
+
+>> Performed a cohort analysis on the data using SQL to provide insights into user behavior, focusing on user retention.
 -> Specific Analysis:
     -  Grouped users into monthly cohorts based on their sign-up date.
     -  lculated the retention rate for each cohort over a 3-month period.
